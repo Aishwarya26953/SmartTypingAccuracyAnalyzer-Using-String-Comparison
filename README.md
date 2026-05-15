@@ -2,7 +2,6 @@
 
 > An Advanced Java based application for real-time typing performance analysis using string comparison techniques and the Levenshtein Distance Algorithm.
 
----
 
 ## 🚀 Project Overview
 
@@ -15,7 +14,7 @@ The **Smart Typing Accuracy Analyzer Using String Comparison** is a Java applica
 
 The project is built using **Java Swing**, **Advanced Java Concepts**, and **String Comparison Algorithms**.
 
----
+
 
 ## ✨ Features
 
@@ -28,7 +27,7 @@ The project is built using **Java Swing**, **Advanced Java Concepts**, and **Str
 * 🔹 Character-by-character string comparison
 * 🔹 User-friendly interface
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +41,7 @@ The project is built using **Java Swing**, **Advanced Java Concepts**, and **Str
 | JDK                  | JDK 21                                    |
 | Operating System     | Windows                                   |
 
----
+
 
 ## ⚙️ System Workflow
 
@@ -60,7 +59,7 @@ Accuracy & WPM Calculation
 Result Generation
 ```
 
----
+
 
 ## 📂 Project Modules
 
@@ -71,7 +70,7 @@ Result Generation
 * 📌 Typing Speed Calculation Module
 * 📌 Result Generation Module
 
----
+
 
 ## 🧠 Algorithms Used
 
@@ -91,7 +90,7 @@ Used for:
 * Similarity calculation
 * Typing error identification
 
----
+
 
 ## 📸 Application Output
 
@@ -102,7 +101,7 @@ The application displays:
 * ✅ Total Typing Errors
 * ✅ Real-Time Typing Analysis
 
----
+
 
 ## 🎯 Advantages
 
@@ -112,7 +111,7 @@ The application displays:
 * Useful for students and professionals
 * Demonstrates real-world use of string comparison algorithms
 
----
+
 
 ## 🔮 Future Enhancements
 
@@ -122,7 +121,7 @@ The application displays:
 * 📊 Performance History Tracking
 * 👥 Multiplayer Typing Tests
 
----
+
 
 ## 📁 How to Run the Project
 
@@ -135,7 +134,7 @@ git clone <your-github-repo-link>
 # Run the Main.java file
 ```
 
----
+
 
 ## 👨‍💻 Developed Using
 
@@ -144,12 +143,10 @@ git clone <your-github-repo-link>
 * String Comparison Techniques
 * Levenshtein Distance Algorithm
 
----
+
 
 ## ⭐ Conclusion
 
 The Smart Typing Accuracy Analyzer Using String Comparison is an efficient and interactive platform for typing practice and typing performance analysis. The project successfully demonstrates the practical implementation of Advanced Java concepts and string comparison algorithms in a real-world software application.
 
----
 
-# ⭐ If you like this project, give it a star on GitHub!
